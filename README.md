@@ -1,2 +1,2 @@
 # Working-with-Json
-### Working free fake API for testing and prototyping
+### Working with free fake API for testing and prototyping JSONPlaceholder
